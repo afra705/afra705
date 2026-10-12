@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="./1 (2).jpg alt="Afra Anjum Banner" width="100%" />
+  <img src="./Banner.jpeg" alt="Afra Anjum Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Afra Anjum</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>

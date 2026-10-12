@@ -1,52 +1,71 @@
-
+ 
 <p align="center">
-  <img src="./Banner.jpeg" alt="Afra Anjum Banner" width="100%" />
+  <img src="./Banner.jpeg" alt="Afra Anjum - Frontend Developer" width="100%" />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Afra Anjum</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **MERN Stack Development**
-- 📫 How to reach me **afraanjum896@gmail.com**
+<h3 align="center">💜 Frontend Developer | MERN Stack Learner 🇧🇩</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/afra705" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Afra Anjum LinkedIn" height="30" width="40" />
+<p align="center">
+  Building responsive, user-friendly, and modern web experiences.
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a passionate Frontend Developer from Bangladesh who enjoys creating responsive, interactive, and visually appealing websites. I love exploring modern technologies, learning new skills, and building projects to improve my development journey.
+
+- 🌱 Currently learning **MERN Stack Development**
+- 💻 Practicing **React.js, TypeScript, Tailwind CSS, and Next.js**
+- 🗄️ Learning **MongoDB** and database integration
+- 🔐 Exploring **Authentication with Better Auth**
+- 🚀 Building modern web applications and improving my coding skills
+- 🎯 Working toward becoming a skilled Full-Stack Developer
+- 📫 Reach me at **[afraanjum896@gmail.com](mailto:afraanjum896@gmail.com)**
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,jquery,react,nextjs,nodejs,express,mongodb,git,github,vscode&perline=5" alt="Languages and Tools" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/afra705">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:afraanjum896@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/afra705">
+    <img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=afra705&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="Afra's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afra705&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afra705&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=afra705&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afra705&" alt="GitHub Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=afra705&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+<p align="center">
+  💜 <b>Thanks for visiting my profile!</b>
+  <br/>
+  <i>Let's learn, build, and grow together.</i>
 </p>

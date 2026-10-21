@@ -41,7 +41,7 @@ I'm a passionate Frontend Developer from Bangladesh who enjoys creating responsi
   <a href="https://linkedin.com/in/afra705">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="afraa.code@gmail.com">
+  <a href="mailto:afraanjum896@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/afra705">

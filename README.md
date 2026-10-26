@@ -23,7 +23,6 @@ I'm a passionate Frontend Developer from Bangladesh who enjoys creating responsi
 - 🔐 Exploring **Authentication with Better Auth**
 - 🚀 Building modern web applications and improving my coding skills
 - 🎯 Working toward becoming a skilled Full-Stack Developer
-- 📫 Reach me at **[afraanjum896@gmail.com](mailto:afraanjum896@gmail.com)**
 
 ---
 

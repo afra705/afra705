@@ -53,11 +53,6 @@ I'm a passionate Frontend Developer from Bangladesh who enjoys creating responsi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=afra705&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="Afra's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afra705&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=afra705&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 

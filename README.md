@@ -53,7 +53,11 @@ I'm a passionate Frontend Developer from Bangladesh who enjoys creating responsi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=afra705&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    width="60%"
+    src="https://streak-stats.demolab.com?user=afra705&theme=midnight-purple&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
